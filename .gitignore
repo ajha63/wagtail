@@ -1,5 +1,7 @@
+# Python code and db
 __pycache__/
 *.py[cod]
+db.sqlite3
 db.sqlite3
 *.egg
 
@@ -20,3 +22,6 @@ pip-delete-this-directory.txt
 
 # Git
 .gitignore
+
+# 
+.idea/
